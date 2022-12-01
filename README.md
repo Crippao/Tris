@@ -1,1 +1,1 @@
-# Tris con grafica
+# Tris
